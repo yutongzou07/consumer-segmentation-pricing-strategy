@@ -3,7 +3,7 @@
 
 **Market intelligence case analysis** — factor analysis, K-means segmentation, Gabor-Granger pricing, and market share simulation to guide a game acquisition decision.
 
-[Open in Colab](#) *(update this link once your notebook is pushed)*
+[Open in Colab](https://colab.research.google.com/github/yutongzou07/consumer-segmentation-pricing-strategy/blob/main/Market_intelligence_final_project_code.ipynb)
 
 ## Business Problem
 
